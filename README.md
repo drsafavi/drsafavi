@@ -8,7 +8,7 @@ I work on the security of AI systems and on AI for security: indirect prompt inj
 
 | Project | What it is |
 |---|---|
-| [AgentSec-Bench](https://github.com/drsafavi/agentsec-bench) | Open benchmark for indirect prompt injection in tool-augmented LLM agents: 240 tasks, 6 tool environments, 6 attack classes, 3 obfuscation levels, deterministic harness and scorer. |
+| [AgentSec-Bench](https://github.com/drsafavi/agentsec-bench) | Open benchmark for indirect prompt injection in tool-augmented LLM agents: 240 tasks, 6 tool environments, 6 attack classes, 3 obfuscation levels, deterministic harness and scorer. [doi:10.5281/zenodo.23734796](https://doi.org/10.5281/zenodo.23734796) |
 | [AI for Cybersecurity Lab](https://github.com/smsafavi/ai-cybersecurity-lab) | 14 Colab-ready teaching projects, from data preprocessing to CNNs and anomaly detection for security. |
 
 ### Recent publications
